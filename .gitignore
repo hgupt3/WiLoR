@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+wilor/**/__pycache__/
+wilor/**/*.py[cod]
+
+mano_data/MANO_RIGHT.pkl
+pretrained_models/detector.pt
+pretrained_models/wilor_final.ckpt
